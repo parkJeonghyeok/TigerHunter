@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 91ba2c7cb215567419091d865f435951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 883587512985351240
+    second: tigerSkill_0
+  - first:
+      213: -9071843783562444684
+    second: tigerSkill_1
+  - first:
+      213: 7128009841680375034
+    second: tigerSkill_2
+  - first:
+      213: 3502638871276708867
+    second: tigerSkill_3
+  - first:
+      213: -6005981655578964160
+    second: tigerSkill_4
+  - first:
+      213: -6791202434026903970
+    second: tigerSkill_5
+  - first:
+      213: 7397422028400565478
+    second: tigerSkill_6
+  - first:
+      213: 8173171733308871480
+    second: tigerSkill_7
+  - first:
+      213: -2115734176642873137
+    second: tigerSkill_8
+  - first:
+      213: 2338712779907723989
+    second: tigerSkill_9
+  - first:
+      213: -7298970600408669102
+    second: tigerSkill_10
+  - first:
+      213: 6557035282190610426
+    second: tigerSkill_11
+  - first:
+      213: -3069490005122797477
+    second: tigerSkill_12
+  - first:
+      213: -3796024343910205719
+    second: tigerSkill_13
+  - first:
+      213: -7895887805065701917
+    second: tigerSkill_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tigerSkill_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1252
+        width: 742
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844767f5922234c00800000000000000
+      internalID: 883587512985351240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerSkill_1
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1272
+        width: 755
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470cceeb4265a1280800000000000000
+      internalID: -9071843783562444684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerSkill_2
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1222
+        width: 759
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcd8d86f27cbe260800000000000000
+      internalID: 7128009841680375034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerSkill_3
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1229
+        width: 762
+        height: 819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3046ce2ee7fdb9030800000000000000
+      internalID: 3502638871276708867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerSkill_4
+      rect:
+        serializedVersion: 2
+        x: 4105
+        y: 1235
+        width: 768
+        height: 804
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f04bb518776aca0800000000000000
+      internalID: -6005981655578964160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerSkill_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 768
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833932c5360fc6170800000000000000
+      internalID: 8173171733308871480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerSkill_10
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 762
+        height: 819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2542f9819e8d4ba90800000000000000
+      internalID: -7298970600408669102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerSkill_11
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 0
+        width: 759
+        height: 832
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affaca639d44ffa50800000000000000
+      internalID: 6557035282190610426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerSkill_13
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 0
+        width: 755
+        height: 773
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e63f7ea8ffc15bc0800000000000000
+      internalID: -3796024343910205719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tigerSkill_14
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 0
+        width: 742
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e558b020eb2c6290800000000000000
+      internalID: -7895887805065701917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6521efa09b1bbc744a792cca5ff9c183
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tigerSkill_0: 883587512985351240
+      tigerSkill_1: -9071843783562444684
+      tigerSkill_10: -7298970600408669102
+      tigerSkill_11: 6557035282190610426
+      tigerSkill_12: -3069490005122797477
+      tigerSkill_13: -3796024343910205719
+      tigerSkill_14: -7895887805065701917
+      tigerSkill_2: 7128009841680375034
+      tigerSkill_3: 3502638871276708867
+      tigerSkill_4: -6005981655578964160
+      tigerSkill_5: -6791202434026903970
+      tigerSkill_6: 7397422028400565478
+      tigerSkill_7: 8173171733308871480
+      tigerSkill_8: -2115734176642873137
+      tigerSkill_9: 2338712779907723989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: b79d7807ad6122d48ac1522fe4bf3f00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1155795031001304391
+    second: ghost_rat_hover_extracted_grid_0
+  - first:
+      213: 2884735761177701446
+    second: ghost_rat_hover_extracted_grid_1
+  - first:
+      213: -4142699707564583621
+    second: ghost_rat_hover_extracted_grid_2
+  - first:
+      213: -1639832535679284891
+    second: ghost_rat_hover_extracted_grid_3
+  - first:
+      213: 5713633594481799022
+    second: ghost_rat_hover_extracted_grid_4
+  - first:
+      213: 4551182329680039061
+    second: ghost_rat_hover_extracted_grid_5
+  - first:
+      213: -2575889955887949957
+    second: ghost_rat_hover_extracted_grid_6
+  - first:
+      213: -2820113086528432065
+    second: ghost_rat_hover_extracted_grid_7
+  - first:
+      213: 8631684741376989279
+    second: ghost_rat_hover_extracted_grid_8
+  - first:
+      213: -1670473030495074091
+    second: ghost_rat_hover_extracted_grid_9
+  - first:
+      213: 958661457106317177
+    second: ghost_rat_hover_extracted_grid_10
+  - first:
+      213: -2810267695111197061
+    second: ghost_rat_hover_extracted_grid_11
+  - first:
+      213: -5277688849056104574
+    second: ghost_rat_hover_extracted_grid_12
+  - first:
+      213: 4796221622370626613
+    second: ghost_rat_hover_extracted_grid_13
+  - first:
+      213: -4139774980846169259
+    second: ghost_rat_hover_extracted_grid_14
+  - first:
+      213: -7647913738017221380
+    second: ghost_rat_hover_extracted_grid_15
+  - first:
+      213: -7690293954950244017
+    second: ghost_rat_hover_extracted_grid_16
+  - first:
+      213: 8451785553292913439
+    second: ghost_rat_hover_extracted_grid_17
+  - first:
+      213: -1236139252893318396
+    second: ghost_rat_hover_extracted_grid_18
+  - first:
+      213: 8244385578971194238
+    second: ghost_rat_hover_extracted_grid_19
+  - first:
+      213: -448209642847456384
+    second: ghost_rat_hover_extracted_grid_20
+  - first:
+      213: 1806158952796494098
+    second: ghost_rat_hover_extracted_grid_21
+  - first:
+      213: 5177024044840698787
+    second: ghost_rat_hover_extracted_grid_22
+  - first:
+      213: 8118853310334149065
+    second: ghost_rat_hover_extracted_grid_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghost_rat_hover_extracted_grid_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1285
+        width: 841
+        height: 760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cecdb04e3a80820800000000000000
+      internalID: 2884735761177701446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_rat_hover_extracted_grid_2
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1275
+        width: 846
+        height: 760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b359f7f909c2286c0800000000000000
+      internalID: -4142699707564583621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_rat_hover_extracted_grid_3
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1265
+        width: 850
+        height: 760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56945bb3ff42e39e0800000000000000
+      internalID: -1639832535679284891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_rat_hover_extracted_grid_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 212
+        width: 863
+        height: 760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f78f444f1e1c6b0800000000000000
+      internalID: -5277688849056104574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_rat_hover_extracted_grid_6
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 210
+        width: 863
+        height: 770
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ce271772a9f8240800000000000000
+      internalID: 4796221622370626613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_rat_hover_extracted_grid_7
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 210
+        width: 861
+        height: 780
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5535d90a6909c86c0800000000000000
+      internalID: -4139774980846169259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_rat_hover_extracted_grid_8
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 210
+        width: 850
+        height: 790
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf457a4c9f62dd590800000000000000
+      internalID: -7647913738017221380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost_rat_hover_extracted_grid_4
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1255
+        width: 892
+        height: 760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983550440085e342af6728f6ff2a898
+      internalID: 1386933166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ghost_rat_hover_extracted_grid_1: 2884735761177701446
+      ghost_rat_hover_extracted_grid_10: 958661457106317177
+      ghost_rat_hover_extracted_grid_11: -2810267695111197061
+      ghost_rat_hover_extracted_grid_16: -7690293954950244017
+      ghost_rat_hover_extracted_grid_18: -1236139252893318396
+      ghost_rat_hover_extracted_grid_19: 8244385578971194238
+      ghost_rat_hover_extracted_grid_2: -4142699707564583621
+      ghost_rat_hover_extracted_grid_20: -448209642847456384
+      ghost_rat_hover_extracted_grid_21: 1806158952796494098
+      ghost_rat_hover_extracted_grid_22: 5177024044840698787
+      ghost_rat_hover_extracted_grid_23: 8118853310334149065
+      ghost_rat_hover_extracted_grid_3: -1639832535679284891
+      ghost_rat_hover_extracted_grid_4: 1386933166
+      ghost_rat_hover_extracted_grid_5: -5277688849056104574
+      ghost_rat_hover_extracted_grid_6: 4796221622370626613
+      ghost_rat_hover_extracted_grid_7: -4139774980846169259
+      ghost_rat_hover_extracted_grid_8: -7647913738017221380
+      ghost_rat_hover_extracted_grid_9: -1670473030495074091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

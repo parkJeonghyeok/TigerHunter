@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../OneDrive/바탕 화면/C언어"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "Making 2D Game.sln",
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}

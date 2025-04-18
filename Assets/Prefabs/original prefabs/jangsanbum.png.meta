@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 21972236361a5644e8e4f1a65428be29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6662431232935508692
+    second: jangsanbum_0
+  - first:
+      213: 1365655464562485694
+    second: jangsanbum_1
+  - first:
+      213: -4191660478281927868
+    second: jangsanbum_2
+  - first:
+      213: -7613245586153045661
+    second: jangsanbum_3
+  - first:
+      213: 9183845076405671899
+    second: jangsanbum_4
+  - first:
+      213: 4908534148587651048
+    second: jangsanbum_5
+  - first:
+      213: 6611970824069541417
+    second: jangsanbum_6
+  - first:
+      213: -4658984666618698159
+    second: jangsanbum_7
+  - first:
+      213: -3600486193901510806
+    second: jangsanbum_8
+  - first:
+      213: -452018930425008563
+    second: jangsanbum_9
+  - first:
+      213: 7119507170292565270
+    second: jangsanbum_10
+  - first:
+      213: 7140466915695133259
+    second: jangsanbum_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jangsanbum_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1134
+        width: 957
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25496cb71a4a83a0800000000000000
+      internalID: -6662431232935508692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jangsanbum_1
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1134
+        width: 957
+        height: 881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb961d2d868c3f210800000000000000
+      internalID: 1365655464562485694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jangsanbum_2
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 1134
+        width: 957
+        height: 878
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44336fcd00b34d5c0800000000000000
+      internalID: -4191660478281927868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jangsanbum_3
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1134
+        width: 957
+        height: 881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3618981e971585690800000000000000
+      internalID: -7613245586153045661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jangsanbum_4
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1134
+        width: 952
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7516b5072937f70800000000000000
+      internalID: 9183845076405671899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jangsanbum_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 947
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e69e9ce6072cb50800000000000000
+      internalID: 6611970824069541417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jangsanbum_8
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 0
+        width: 957
+        height: 880
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f5dc102e0880ec0800000000000000
+      internalID: -3600486193901510806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jangsanbum_9
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 0
+        width: 957
+        height: 877
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ee34c7d2b1ab9f0800000000000000
+      internalID: -452018930425008563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jangsanbum_10
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 0
+        width: 957
+        height: 880
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6158225fc029dc260800000000000000
+      internalID: 7119507170292565270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jangsanbum_11
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 0
+        width: 957
+        height: 884
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b420078f3d8081360800000000000000
+      internalID: 7140466915695133259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6a0868027a0f3944799575711fd351ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jangsanbum_0: -6662431232935508692
+      jangsanbum_1: 1365655464562485694
+      jangsanbum_10: 7119507170292565270
+      jangsanbum_11: 7140466915695133259
+      jangsanbum_2: -4191660478281927868
+      jangsanbum_3: -7613245586153045661
+      jangsanbum_4: 9183845076405671899
+      jangsanbum_6: 6611970824069541417
+      jangsanbum_8: -3600486193901510806
+      jangsanbum_9: -452018930425008563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

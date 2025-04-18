@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: a396d36f1acc46d4d89820cefb3a2957
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6778922828098697452
+    second: tiger1_0
+  - first:
+      213: 2270897702622287240
+    second: tiger1_1
+  - first:
+      213: 4240281279580022605
+    second: tiger1_2
+  - first:
+      213: -4522036747732256481
+    second: tiger1_3
+  - first:
+      213: -1572536610808095855
+    second: tiger1_4
+  - first:
+      213: 7312592921884778261
+    second: tiger1_5
+  - first:
+      213: -8663817093714015633
+    second: tiger1_6
+  - first:
+      213: -3786012565008650363
+    second: tiger1_7
+  - first:
+      213: -1426463446695159205
+    second: tiger1_8
+  - first:
+      213: -238524379301620341
+    second: tiger1_9
+  - first:
+      213: 5570645985799107929
+    second: tiger1_10
+  - first:
+      213: 3243495076855897320
+    second: tiger1_11
+  - first:
+      213: -8763143915357866575
+    second: tiger1_12
+  - first:
+      213: 7161675581831447285
+    second: tiger1_13
+  - first:
+      213: -352020499465075911
+    second: tiger1_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiger1_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1252
+        width: 742
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4170467aa9d6ce1a0800000000000000
+      internalID: -6778922828098697452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger1_1
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1272
+        width: 755
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8855d06cd69d38f10800000000000000
+      internalID: 2270897702622287240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger1_2
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1222
+        width: 759
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d472b199b5188da30800000000000000
+      internalID: 4240281279580022605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger1_3
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1229
+        width: 762
+        height: 819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19f726698f7e31c0800000000000000
+      internalID: -4522036747732256481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger1_4
+      rect:
+        serializedVersion: 2
+        x: 4105
+        y: 1235
+        width: 768
+        height: 804
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b9c7cb84a3d2ae0800000000000000
+      internalID: -1572536610808095855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger1_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 768
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f6e7b91a1657bc0800000000000000
+      internalID: -3786012565008650363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger1_10
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 762
+        height: 819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955f2017209ee4d40800000000000000
+      internalID: 5570645985799107929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger1_11
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 0
+        width: 759
+        height: 832
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec59be6695330d20800000000000000
+      internalID: 3243495076855897320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger1_13
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 0
+        width: 755
+        height: 773
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f207ab5ff1636360800000000000000
+      internalID: 7161675581831447285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiger1_14
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 0
+        width: 742
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9338ab7883f5d1bf0800000000000000
+      internalID: -352020499465075911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 79547d567594fa5489573489d891a163
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiger1_0: -6778922828098697452
+      tiger1_1: 2270897702622287240
+      tiger1_10: 5570645985799107929
+      tiger1_11: 3243495076855897320
+      tiger1_12: -8763143915357866575
+      tiger1_13: 7161675581831447285
+      tiger1_14: -352020499465075911
+      tiger1_2: 4240281279580022605
+      tiger1_3: -4522036747732256481
+      tiger1_4: -1572536610808095855
+      tiger1_5: 7312592921884778261
+      tiger1_6: -8663817093714015633
+      tiger1_7: -3786012565008650363
+      tiger1_8: -1426463446695159205
+      tiger1_9: -238524379301620341
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

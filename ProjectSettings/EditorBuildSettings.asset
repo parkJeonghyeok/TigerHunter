@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 5ce6750cfa831094888d877e3b8b567b
+  - enabled: 1
+    path: Assets/Scenes/1th floor/F1-wave1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/1th floor/F1-wave2.unity
+    guid: d5b6be56747cace48865bf0a54fee85d
+  - enabled: 1
+    path: Assets/Scenes/1th floor/F1-wave3.unity
+    guid: 2f3644cc28c703141a9d04f8a16be096
+  - enabled: 1
+    path: Assets/Scenes/1th floor/F1-wave4(Boss).unity
+    guid: 2fbbcd58de8bb8a43aadf16093063f08
+  - enabled: 1
+    path: Assets/Scenes/1th floor/F1-store.unity
+    guid: 8b699567802d4e2419eaed1348e77dbd
+  - enabled: 1
+    path: Assets/Scenes/2th floor/F2-wave1.unity
+    guid: 2debcd98a0bd66c4986af2d0893141ce
+  - enabled: 1
+    path: Assets/Scenes/2th floor/F2-wave2.unity
+    guid: 81e58a59d6c49854c993635d3483019f
+  - enabled: 1
+    path: Assets/Scenes/2th floor/F2-wave3.unity
+    guid: 4519d72002880bf4686da0ca6b98ad99
+  - enabled: 1
+    path: Assets/Scenes/2th floor/F2-wave4.unity
+    guid: bb50ea4d9a13e3248968975ee5d714e8
+  - enabled: 1
+    path: Assets/Scenes/2th floor/F2-store.unity
+    guid: dd8f27e5d51a3044787452d4c0817826
+  - enabled: 1
+    path: Assets/Scenes/3th floor/F3-wave1.unity
+    guid: f1dc69782402ea648bf4990f671c7238
+  - enabled: 1
+    path: Assets/Scenes/3th floor/F3-wave2.unity
+    guid: d19c6e43ef0508b4eac3756bcf537cd1
+  - enabled: 1
+    path: Assets/Scenes/3th floor/F3-wave3.unity
+    guid: c894ee31948d88c4f91c09b403d9fd4d
+  - enabled: 1
+    path: Assets/Scenes/3th floor/F3-wave4.unity
+    guid: 665b8f4734a5179439941974e5523b5a
+  - enabled: 1
+    path: Assets/Scenes/3th floor/F3-store.unity
+    guid: b707f2c6fe339884fbbc5f3e9535ebb6
+  - enabled: 1
+    path: Assets/Scenes/4th floor/F4-wave1.unity
+    guid: 4da6190eaf8474c43a0c96966d99c442
+  - enabled: 1
+    path: Assets/Scenes/4th floor/F4-wave2.unity
+    guid: 2db6efcbed685214dbf374bb90093e52
+  - enabled: 1
+    path: Assets/Scenes/4th floor/F4-wave3.unity
+    guid: 7fb016498f4327846b719367c99ba0e8
+  - enabled: 1
+    path: Assets/Scenes/4th floor/F4-wave4.unity
+    guid: 011ca9262ed45d34cb69ef94165f090e
+  - enabled: 1
+    path: Assets/Scenes/4th floor/F4-store.unity
+    guid: 465bfcbee7e289242865806a88097525
+  - enabled: 1
+    path: Assets/Scenes/5th floor/F5-wave1.unity
+    guid: 631313d505068064c9462f876ae4e619
+  - enabled: 1
+    path: Assets/Scenes/5th floor/F5-wave2.unity
+    guid: e2e7e5cd44716f444b012333a5d094b2
+  - enabled: 1
+    path: Assets/Scenes/5th floor/F5-wave3.unity
+    guid: 2a38556fbc6320447b53472bfda2be65
+  - enabled: 1
+    path: Assets/Scenes/5th floor/Ending.unity
+    guid: 09f6c287d4e736a4b9f989005534cb00
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

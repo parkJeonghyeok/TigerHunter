@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 5dbf169960272ef4aa02835a8ca5f735
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2120846986155270920
+    second: scratch_effect_full_sprite_sheet_0
+  - first:
+      213: 3151047282259800896
+    second: scratch_effect_full_sprite_sheet_1
+  - first:
+      213: -3935556221899311461
+    second: scratch_effect_full_sprite_sheet_2
+  - first:
+      213: 6627072219191180356
+    second: scratch_effect_full_sprite_sheet_3
+  - first:
+      213: 4111123350476254221
+    second: scratch_effect_full_sprite_sheet_4
+  - first:
+      213: 8869754038371965989
+    second: scratch_effect_full_sprite_sheet_5
+  - first:
+      213: 3278060840680022673
+    second: scratch_effect_full_sprite_sheet_6
+  - first:
+      213: -7994843884492093049
+    second: scratch_effect_full_sprite_sheet_7
+  - first:
+      213: -188328486420500377
+    second: scratch_effect_full_sprite_sheet_8
+  - first:
+      213: 5174942008290770360
+    second: scratch_effect_full_sprite_sheet_9
+  - first:
+      213: -4033987864475402919
+    second: scratch_effect_full_sprite_sheet_10
+  - first:
+      213: 2614309499933798260
+    second: scratch_effect_full_sprite_sheet_11
+  - first:
+      213: -6310522318023166376
+    second: scratch_effect_full_sprite_sheet_12
+  - first:
+      213: -4886342604640829753
+    second: scratch_effect_full_sprite_sheet_13
+  - first:
+      213: 4464952062678632491
+    second: scratch_effect_full_sprite_sheet_14
+  - first:
+      213: 1850804075094199398
+    second: scratch_effect_full_sprite_sheet_15
+  - first:
+      213: -8999968611001567334
+    second: scratch_effect_full_sprite_sheet_16
+  - first:
+      213: -6426873580603159578
+    second: scratch_effect_full_sprite_sheet_17
+  - first:
+      213: -6306184572312326522
+    second: scratch_effect_full_sprite_sheet_18
+  - first:
+      213: 3061520349166688377
+    second: scratch_effect_full_sprite_sheet_19
+  - first:
+      213: -4112488592130239070
+    second: scratch_effect_full_sprite_sheet_20
+  - first:
+      213: 6203028921556462657
+    second: scratch_effect_full_sprite_sheet_21
+  - first:
+      213: -2907932877998385707
+    second: scratch_effect_full_sprite_sheet_22
+  - first:
+      213: 8970819289897948974
+    second: scratch_effect_full_sprite_sheet_23
+  - first:
+      213: 5207019529095705059
+    second: scratch_effect_full_sprite_sheet_24
+  - first:
+      213: 2020662082713903127
+    second: scratch_effect_full_sprite_sheet_25
+  - first:
+      213: -8849428909762806419
+    second: scratch_effect_full_sprite_sheet_26
+  - first:
+      213: -3690607226735977004
+    second: scratch_effect_full_sprite_sheet_27
+  - first:
+      213: 6869220066779539931
+    second: scratch_effect_full_sprite_sheet_28
+  - first:
+      213: -1524169535845729531
+    second: scratch_effect_full_sprite_sheet_29
+  - first:
+      213: -1343163458770263003
+    second: scratch_effect_full_sprite_sheet_30
+  - first:
+      213: 5903860507957236795
+    second: scratch_effect_full_sprite_sheet_31
+  - first:
+      213: 3032555812360737436
+    second: scratch_effect_full_sprite_sheet_32
+  - first:
+      213: -8302555453839041699
+    second: scratch_effect_full_sprite_sheet_33
+  - first:
+      213: -1511012381423268871
+    second: scratch_effect_full_sprite_sheet_34
+  - first:
+      213: -7192617689403500085
+    second: scratch_effect_full_sprite_sheet_35
+  - first:
+      213: 7904691419376424792
+    second: scratch_effect_full_sprite_sheet_36
+  - first:
+      213: -4717123508662233555
+    second: scratch_effect_full_sprite_sheet_37
+  - first:
+      213: -7347604178032630956
+    second: scratch_effect_full_sprite_sheet_38
+  - first:
+      213: 3807330129852491542
+    second: scratch_effect_full_sprite_sheet_39
+  - first:
+      213: 6606908290118510209
+    second: scratch_effect_full_sprite_sheet_40
+  - first:
+      213: -4359476556177229068
+    second: scratch_effect_full_sprite_sheet_41
+  - first:
+      213: 2879456790979330772
+    second: scratch_effect_full_sprite_sheet_42
+  - first:
+      213: -2571267643488246132
+    second: scratch_effect_full_sprite_sheet_43
+  - first:
+      213: -5829353723705290478
+    second: scratch_effect_full_sprite_sheet_44
+  - first:
+      213: -9167695993824869598
+    second: scratch_effect_full_sprite_sheet_45
+  - first:
+      213: 4835278171339887486
+    second: scratch_effect_full_sprite_sheet_46
+  - first:
+      213: -5607030235044557310
+    second: scratch_effect_full_sprite_sheet_47
+  - first:
+      213: -8122523475855727094
+    second: scratch_effect_full_sprite_sheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0433e89eec4cabb20800000000000000
+      internalID: 3151047282259800896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 5232
+        y: 87
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96fc18b7781269c0800000000000000
+      internalID: -3935556221899311461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 85
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cffb5521718fb50800000000000000
+      internalID: 6627072219191180356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7273
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c63f4d7e4ad0930800000000000000
+      internalID: 4111123350476254221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 8305
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c5f3ecd42b71b70800000000000000
+      internalID: 8869754038371965989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 9319
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192e9d877f20e7d20800000000000000
+      internalID: 3278060840680022673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 10354
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789052678db9c0190800000000000000
+      internalID: -7994843884492093049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11369
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760b1d94d3ce26df0800000000000000
+      internalID: -188328486420500377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 12393
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdfa69a65611d740800000000000000
+      internalID: 5174942008290770360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 13419
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95df4b509656408c0800000000000000
+      internalID: -4033987864475402919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 14444
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fab7493a4e74420800000000000000
+      internalID: 2614309499933798260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 15479
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856fd07e2658c68a0800000000000000
+      internalID: -6310522318023166376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 16493
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceb68f3a49303cb0800000000000000
+      internalID: -4886342604640829753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 17517
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b288b13ae32b6fd30800000000000000
+      internalID: 4464952062678632491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 18550
+        y: 72
+        width: 800
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc5d410806fa910800000000000000
+      internalID: 1850804075094199398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scratch_effect_full_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 19560
+        y: 72
+        width: 803
+        height: 930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97f59f6b30b91380800000000000000
+      internalID: -8999968611001567334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b18a32f05ff7cc479652cfec1b9ed91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scratch_effect_full_sprite_sheet_0: 2120846986155270920
+      scratch_effect_full_sprite_sheet_1: 3151047282259800896
+      scratch_effect_full_sprite_sheet_10: -4033987864475402919
+      scratch_effect_full_sprite_sheet_11: 2614309499933798260
+      scratch_effect_full_sprite_sheet_12: -6310522318023166376
+      scratch_effect_full_sprite_sheet_13: -4886342604640829753
+      scratch_effect_full_sprite_sheet_14: 4464952062678632491
+      scratch_effect_full_sprite_sheet_15: 1850804075094199398
+      scratch_effect_full_sprite_sheet_16: -8999968611001567334
+      scratch_effect_full_sprite_sheet_17: -6426873580603159578
+      scratch_effect_full_sprite_sheet_18: -6306184572312326522
+      scratch_effect_full_sprite_sheet_19: 3061520349166688377
+      scratch_effect_full_sprite_sheet_2: -3935556221899311461
+      scratch_effect_full_sprite_sheet_20: -4112488592130239070
+      scratch_effect_full_sprite_sheet_21: 6203028921556462657
+      scratch_effect_full_sprite_sheet_22: -2907932877998385707
+      scratch_effect_full_sprite_sheet_23: 8970819289897948974
+      scratch_effect_full_sprite_sheet_24: 5207019529095705059
+      scratch_effect_full_sprite_sheet_25: 2020662082713903127
+      scratch_effect_full_sprite_sheet_26: -8849428909762806419
+      scratch_effect_full_sprite_sheet_27: -3690607226735977004
+      scratch_effect_full_sprite_sheet_28: 6869220066779539931
+      scratch_effect_full_sprite_sheet_29: -1524169535845729531
+      scratch_effect_full_sprite_sheet_3: 6627072219191180356
+      scratch_effect_full_sprite_sheet_30: -1343163458770263003
+      scratch_effect_full_sprite_sheet_31: 5903860507957236795
+      scratch_effect_full_sprite_sheet_32: 3032555812360737436
+      scratch_effect_full_sprite_sheet_33: -8302555453839041699
+      scratch_effect_full_sprite_sheet_34: -1511012381423268871
+      scratch_effect_full_sprite_sheet_35: -7192617689403500085
+      scratch_effect_full_sprite_sheet_36: 7904691419376424792
+      scratch_effect_full_sprite_sheet_37: -4717123508662233555
+      scratch_effect_full_sprite_sheet_38: -7347604178032630956
+      scratch_effect_full_sprite_sheet_39: 3807330129852491542
+      scratch_effect_full_sprite_sheet_4: 4111123350476254221
+      scratch_effect_full_sprite_sheet_40: 6606908290118510209
+      scratch_effect_full_sprite_sheet_41: -4359476556177229068
+      scratch_effect_full_sprite_sheet_42: 2879456790979330772
+      scratch_effect_full_sprite_sheet_43: -2571267643488246132
+      scratch_effect_full_sprite_sheet_44: -5829353723705290478
+      scratch_effect_full_sprite_sheet_45: -9167695993824869598
+      scratch_effect_full_sprite_sheet_46: 4835278171339887486
+      scratch_effect_full_sprite_sheet_47: -5607030235044557310
+      scratch_effect_full_sprite_sheet_48: -8122523475855727094
+      scratch_effect_full_sprite_sheet_5: 8869754038371965989
+      scratch_effect_full_sprite_sheet_6: 3278060840680022673
+      scratch_effect_full_sprite_sheet_7: -7994843884492093049
+      scratch_effect_full_sprite_sheet_8: -188328486420500377
+      scratch_effect_full_sprite_sheet_9: 5174942008290770360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
