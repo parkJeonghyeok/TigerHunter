@@ -584,6 +584,81 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1019580615}
   m_CullTransparentMesh: 1
+--- !u!1 &1356660062
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1356660063}
+  - component: {fileID: 1356660065}
+  - component: {fileID: 1356660064}
+  m_Layer: 5
+  m_Name: Picture
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1356660063
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356660062}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1961190634}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 50}
+  m_SizeDelta: {x: 1000, y: 800}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1356660064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356660062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 1046527750810820840, guid: 14834b250bebcee4b947236b3d92bd32, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1356660065
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356660062}
+  m_CullTransparentMesh: 1
 --- !u!1 &1520493220
 GameObject:
   m_ObjectHideFlags: 0
@@ -884,6 +959,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1356660063}
   - {fileID: 1660094984}
   - {fileID: 2105982789}
   m_Father: {fileID: 225822219}
@@ -988,9 +1064,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uC5D4\uB529\n\n\n\n\uC81C\uC791 \uBA85\uC9C0\uB300\uD559\uAD50 \uCEF4\uD4E8\uD130\uACF5\uD559\uACFC\n\n\uC775\uBA851
-    \uC775\uBA852 \uC775\uBA853\n\n\n\uB3C4\uC6C0 ChatGPT Plus\n\n\n\uC81C\uC791
-    \uAE30\uAC04 2025 / 01 / 24 ~ 2025 / 04 / 18 (\uC57D 3\uAC1C\uC6D4)\n"
+  m_text: "\uC5D4\uB529\n\n\n\n\uC81C\uC791 \uBA85\uC9C0\uB300\uD559\uAD50 \uCEF4\uD4E8\uD130\uACF5\uD559\uACFC
+    \n\n\uBC15\uC815\uD601 \uB958\uACBD\uD658 \uC774\uCDA9\uD5CC\n\n\n\uB3C4\uC6C0
+    ChatGPT Plus\n\n\n\uC81C\uC791 \uAE30\uAC04 2025 / 01 / 24 ~ 2025 / 04 / 18 (\uC57D
+    3\uAC1C\uC6D4)\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 36b7b8512e268c54db806b4ce4539940, type: 2}
   m_sharedMaterial: {fileID: 5905062554254450285, guid: 36b7b8512e268c54db806b4ce4539940, type: 2}
